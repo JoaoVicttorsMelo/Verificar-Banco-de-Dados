@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    tiny_tds (2.1.7-x64-mingw-ucrt)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  tiny_tds
+
+BUNDLED WITH
+   2.5.11
