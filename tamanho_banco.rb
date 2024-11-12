@@ -48,7 +48,7 @@ class TamanhoBanco
     config = YAML.load_file(config_path)
 
     # Caminho do banco SQLite
-    dp_path = config["database_lite"]["db"]
+    dp_path = config["database"]["db"]
     db = SQLite3::Database.new(dp_path)
 
     # Consulta no SQLite para pegar IPs e códigos das filiais
@@ -79,9 +79,9 @@ class TamanhoBanco
       puts "Não há lojas com o banco de dados cheio."
     else
       enviar_email(
-        "Lojas com Banco de Dados Cheio",
-        "Olá,#{apresentacao(Time.now.hour)}, favor verificar lojas com o banco de dados cheios",
-        "Tamanhos dos bancos de dados:<br>#{lojas_banco_cheio.join("<br>")}"
+        titulo: "Lojas com Banco de Dados Cheio",
+        corpo: "Olá,#{apresentacao(Time.now.hour)}, favor verificar lojas com o banco de dados cheios",
+        informacao: "Tamanhos dos bancos de dados:<br>#{lojas_banco_cheio.join("<br>")}"
       )
     end
   end
