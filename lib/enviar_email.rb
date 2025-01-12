@@ -1,7 +1,7 @@
 # Importação das bibliotecas necessárias
 require 'mail'       # Biblioteca para envio de e-mails
 require 'yaml'  # Biblioteca para manipulação de arquivos YAML
-require_relative 'tamanho_banco'
+require_relative '../classes/services'
 
 # Definição do módulo EnviarEmail que encapsula funcionalidades de envio de e-mails
 module EnviarEmail
@@ -15,7 +15,7 @@ module EnviarEmail
   # @param info_opcional [String, nil] informações opcionais adicionais para serem incluídas no corpo do e-mail
   def enviar_email(titulo:, corpo:, corpo2: nil, informacao: nil, caminho_arquivo_anexo: nil, info_opcional: nil, incluir_style: true, validacao: 1)
     # Define o caminho para o arquivo de configuração 'config.yml' localizado na mesma pasta do módulo
-    config_path = File.join(__dir__, 'config.yml')
+    config_path = File.join(__dir__, '..','config.yml')
     # Carrega as configurações do arquivo YAML
     config = YAML.load_file(config_path)
 

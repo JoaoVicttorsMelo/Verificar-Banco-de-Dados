@@ -1,0 +1,155 @@
+I, [2025-01-09T13:48:50.636464 #7924]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-09T13:48:50.637571 #7924]  INFO -- : Conexão efetuada com sucesso
+I, [2025-01-09T13:48:56.888792 #7924]  INFO -- : Tamanho do banco de dados: 8.8 GB da filial BF-BB (000094)
+I, [2025-01-09T13:49:00.229121 #7924]  INFO -- : Tamanho do banco de dados: 9.37 GB da filial BF-BR2 (000051)
+I, [2025-01-09T13:49:07.073206 #7924]  INFO -- : Tamanho do banco de dados: 9.06 GB da filial BF-DM (000036)
+I, [2025-01-09T13:49:07.764672 #7924]  INFO -- : Tamanho do banco de dados: 8.93 GB da filial BF-ES (000096)
+I, [2025-01-09T13:49:18.206313 #7924]  INFO -- : Tamanho do banco de dados: 9.33 GB da filial BF-JUNDIAI (000138)
+E, [2025-01-09T13:49:59.061139 #7924] ERROR -- : Erro ao conectar na loja BF-UB2 - (000133): Database 'LINX_LOJA' does not exist. Make sure that the name is entered correctly.
+I, [2025-01-09T13:50:00.251838 #7924]  INFO -- : Tamanho do banco de dados: 9.23 GB da filial BF-UBERABA (000130)
+I, [2025-01-09T13:50:16.407469 #7924]  INFO -- : Tamanho do banco de dados: 9.09 GB da filial VV-IGU (000037)
+I, [2025-01-09T13:50:19.453208 #7924]  INFO -- : Tamanho do banco de dados: 9.06 GB da filial VV-MANAUS (000121)
+I, [2025-01-09T13:51:38.877242 #7924]  INFO -- : Tamanho do banco de dados: 9.0 GB da filial BF-MANAUS2 (000122)
+I, [2025-01-09T13:51:43.984399 #7924]  INFO -- : E-mail enviado com sucesso!
+I, [2025-01-09T15:12:29.351358 #9488]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-09T15:12:29.352547 #9488]  INFO -- : Conexão efetuada com sucesso
+E, [2025-01-09T15:13:32.039432 #9488] ERROR -- : Erro ao conectar na loja BF-UB2 - (000133): Database 'LINX_LOJA' does not exist. Make sure that the name is entered correctly.
+E, [2025-01-09T15:14:12.546385 #9488] ERROR -- : Erro ao conectar na loja VV-PB - (000018): Adaptive Server connection timed out
+W, [2025-01-09T15:15:36.991726 #9488]  WARN -- : Não há lojas com o banco de dados cheio.
+I, [2025-01-09T16:41:28.696210 #13604]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-09T16:41:28.697417 #13604]  INFO -- : Conexão efetuada com sucesso
+E, [2025-01-09T16:42:33.819651 #13604] ERROR -- : Erro ao conectar na loja BF-UB2 - (000133): Database 'LINX_LOJA' does not exist. Make sure that the name is entered correctly.
+W, [2025-01-09T16:44:12.419334 #13604]  WARN -- : Não há lojas com o banco de dados cheio.
+I, [2025-01-09T17:00:48.018402 #424]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-09T17:00:48.019312 #424]  INFO -- : Conexão efetuada com sucesso
+E, [2025-01-09T17:02:52.292480 #424] ERROR -- : Erro ao conectar na loja VV-SJRP - (000070): Unable to connect: Adaptive Server is unavailable or does not exist (172.24.5.162)
+E, [2025-01-09T17:03:31.783440 #424] ERROR -- : Erro ao conectar na loja JR-SJRP - (000181): Unable to connect: Adaptive Server is unavailable or does not exist (172.25.15.34)
+W, [2025-01-09T17:04:23.342633 #424]  WARN -- : Não há lojas com o banco de dados cheio.
+I, [2025-01-09T17:17:27.831656 #11384]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-09T17:17:27.832711 #11384]  INFO -- : Conexão efetuada com sucesso
+I, [2025-01-09T17:17:30.809299 #11384]  INFO -- : Tamanho do banco de dados: 9.88 GB da filial BF-BB (000094)
+I, [2025-01-09T17:17:34.727397 #11384]  INFO -- : Tamanho do banco de dados: 10.4 GB da filial BF-BR2 (000051)
+I, [2025-01-09T17:17:37.750569 #11384]  INFO -- : Tamanho do banco de dados: 9.37 GB da filial BF-CG (000068)
+I, [2025-01-09T17:17:42.012660 #11384]  INFO -- : Tamanho do banco de dados: 9.96 GB da filial BF-DM (000036)
+I, [2025-01-09T17:17:43.046298 #11384]  INFO -- : Tamanho do banco de dados: 10.06 GB da filial BF-ES (000096)
+I, [2025-01-09T17:17:43.433215 #11384]  INFO -- : Tamanho do banco de dados: 8.81 GB da filial BF-ESTACAO CUIABA (000231)
+I, [2025-01-09T17:17:47.100180 #11384]  INFO -- : Tamanho do banco de dados: 8.59 GB da filial BF-GO (000042)
+I, [2025-01-09T17:17:47.945762 #11384]  INFO -- : Tamanho do banco de dados: 8.72 GB da filial BF-GO2 (000100)
+I, [2025-01-09T17:17:49.939670 #11384]  INFO -- : Tamanho do banco de dados: 8.63 GB da filial BF-HI (000048)
+I, [2025-01-09T17:17:50.336425 #11384]  INFO -- : Tamanho do banco de dados: 11.0 GB da filial BF-IGU (000016)
+I, [2025-01-09T17:17:50.733166 #11384]  INFO -- : Tamanho do banco de dados: 9.33 GB da filial BF-IGU FORT (000165)
+I, [2025-01-09T17:17:50.893298 #11384]  INFO -- : Tamanho do banco de dados: 8.85 GB da filial BF-IGU SJRP (000153)
+I, [2025-01-09T17:17:52.927213 #11384]  INFO -- : Tamanho do banco de dados: 10.17 GB da filial BF-JUNDIAI (000138)
+I, [2025-01-09T17:17:53.069292 #11384]  INFO -- : Tamanho do banco de dados: 11.86 GB da filial BF-LB (000084)
+I, [2025-01-09T17:17:53.455589 #11384]  INFO -- : Tamanho do banco de dados: 9.29 GB da filial BF-LONDRINA (000189)
+I, [2025-01-09T17:17:55.123752 #11384]  INFO -- : Tamanho do banco de dados: 8.73 GB da filial BF-MANAUS (000120)
+I, [2025-01-09T17:17:55.558812 #11384]  INFO -- : Tamanho do banco de dados: 8.91 GB da filial BF-MARINGA. (000195)
+I, [2025-01-09T17:17:55.780575 #11384]  INFO -- : Tamanho do banco de dados: 9.16 GB da filial BF-MINAS (100060)
+I, [2025-01-09T17:17:56.086780 #11384]  INFO -- : Tamanho do banco de dados: 11.34 GB da filial BF-MOR (000007)
+I, [2025-01-09T17:17:56.151842 #11384]  INFO -- : Tamanho do banco de dados: 8.98 GB da filial BF-MPS (000118)
+I, [2025-01-09T17:17:59.354994 #11384]  INFO -- : Tamanho do banco de dados: 10.53 GB da filial BF-NATAL2-VV. (000116)
+I, [2025-01-09T17:18:04.161331 #11384]  INFO -- : Tamanho do banco de dados: 8.73 GB da filial BF-OF (000008)
+I, [2025-01-09T17:18:05.535413 #11384]  INFO -- : Tamanho do banco de dados: 9.02 GB da filial BF-POA (000025)
+I, [2025-01-09T17:18:09.427724 #11384]  INFO -- : Tamanho do banco de dados: 12.9 GB da filial BF-PR2 (000066)
+I, [2025-01-09T17:18:10.632337 #11384]  INFO -- : Tamanho do banco de dados: 9.16 GB da filial BF-REC (000077)
+I, [2025-01-09T17:18:13.328177 #11384]  INFO -- : Tamanho do banco de dados: 8.75 GB da filial BF-SAL (000069)
+I, [2025-01-09T17:18:14.361334 #11384]  INFO -- : Tamanho do banco de dados: 8.62 GB da filial BF-SAL3 (000087)
+I, [2025-01-09T17:18:16.233855 #11384]  INFO -- : Tamanho do banco de dados: 8.56 GB da filial BF-SAOCAETANO (000128)
+I, [2025-01-09T17:18:16.865524 #11384]  INFO -- : Tamanho do banco de dados: 8.72 GB da filial BF-SBC (000054)
+I, [2025-01-09T17:18:18.578786 #11384]  INFO -- : Tamanho do banco de dados: 9.54 GB da filial BF-SCN (000010)
+I, [2025-01-09T17:18:24.351729 #11384]  INFO -- : Tamanho do banco de dados: 8.53 GB da filial BF-STAUR (000119)
+I, [2025-01-09T17:18:25.322325 #11384]  INFO -- : Tamanho do banco de dados: 9.72 GB da filial BF-TC (000132)
+I, [2025-01-09T17:18:26.740651 #11384]  INFO -- : Tamanho do banco de dados: 9.76 GB da filial BF-UB2 (000133)
+I, [2025-01-09T17:18:26.971710 #11384]  INFO -- : Tamanho do banco de dados: 10.12 GB da filial BF-UBE (000057)
+I, [2025-01-09T17:18:27.304163 #11384]  INFO -- : Tamanho do banco de dados: 10.17 GB da filial BF-UBERABA (000130)
+I, [2025-01-09T17:18:27.586442 #11384]  INFO -- : Tamanho do banco de dados: 9.74 GB da filial BF-VILA VELHA (000160)
+I, [2025-01-09T17:18:31.129068 #11384]  INFO -- : Tamanho do banco de dados: 9.51 GB da filial VV-BR (000014)
+I, [2025-01-09T17:18:31.945278 #11384]  INFO -- : Tamanho do banco de dados: 10.56 GB da filial VV-BS (000061)
+I, [2025-01-09T17:18:32.327556 #11384]  INFO -- : Tamanho do banco de dados: 9.24 GB da filial VV-BSS. (000097)
+I, [2025-01-09T17:18:35.353672 #11384]  INFO -- : Tamanho do banco de dados: 9.68 GB da filial VV-ELD (000005)
+I, [2025-01-09T17:18:37.320254 #11384]  INFO -- : Tamanho do banco de dados: 9.2 GB da filial VV-IGU (000037)
+I, [2025-01-09T17:18:39.915661 #11384]  INFO -- : Tamanho do banco de dados: 9.63 GB da filial VV-MANAUS (000121)
+I, [2025-01-09T17:18:41.016328 #11384]  INFO -- : Tamanho do banco de dados: 9.0 GB da filial VV-MOOCA (000126)
+I, [2025-01-09T17:18:44.044327 #11384]  INFO -- : Tamanho do banco de dados: 13.39 GB da filial VV-PR2 (000067)
+I, [2025-01-09T17:18:44.169309 #11384]  INFO -- : Tamanho do banco de dados: 10.89 GB da filial VV-PTA (000102)
+I, [2025-01-09T17:18:46.785115 #11384]  INFO -- : Tamanho do banco de dados: 9.97 GB da filial VV-RS (000056)
+I, [2025-01-09T17:18:48.245827 #11384]  INFO -- : Tamanho do banco de dados: 9.5 GB da filial VV-SCN (000012)
+I, [2025-01-09T17:18:51.170041 #11384]  INFO -- : Tamanho do banco de dados: 9.07 GB da filial VV-SPP (000093)
+I, [2025-01-09T17:18:59.001784 #11384]  INFO -- : Tamanho do banco de dados: 10.78 GB da filial JR-MOOCA (000187)
+I, [2025-01-09T17:19:02.986885 #11384]  INFO -- : Tamanho do banco de dados: 8.76 GB da filial JR-RIOMAR (000209)
+I, [2025-01-09T17:19:03.909504 #11384]  INFO -- : Tamanho do banco de dados: 9.44 GB da filial JR-SCN (000188)
+I, [2025-01-09T17:19:11.457729 #11384]  INFO -- : Tamanho do banco de dados: 8.58 GB da filial DN SALVADOR SHOP (000273)
+I, [2025-01-09T17:19:30.169394 #11384]  INFO -- : Tamanho do banco de dados: 10.45 GB da filial OUTLET-SHOP.CATARINA FASH (000150)
+I, [2025-01-09T17:19:34.446352 #11384]  INFO -- : Tamanho do banco de dados: 8.64 GB da filial OUTLET-DN-CATARINA (000302)
+I, [2025-01-09T17:19:39.973355 #11384]  INFO -- : Tamanho do banco de dados: 10.96 GB da filial BF-MANAUS2 (000122)
+I, [2025-01-09T17:19:46.646145 #11384]  INFO -- : E-mail enviado com sucesso!
+I, [2025-01-11T12:20:16.017227 #17288]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:20:16.018231 #17288]  INFO -- : Conexão efetuada com sucesso
+I, [2025-01-11T12:20:26.946567 #17288]  INFO -- : Tamanho do banco de dados: 10.54 GB da filial BF-BB (000094)
+I, [2025-01-11T12:20:31.283691 #17288]  INFO -- : Tamanho do banco de dados: 10.4 GB da filial BF-BR2 (000051)
+I, [2025-01-11T12:20:38.559755 #17288]  INFO -- : Tamanho do banco de dados: 8.85 GB da filial BF-CF (000095)
+I, [2025-01-11T12:20:43.302518 #17288]  INFO -- : Tamanho do banco de dados: 9.38 GB da filial BF-CG (000068)
+I, [2025-01-11T12:20:50.219179 #17288]  INFO -- : Tamanho do banco de dados: 9.96 GB da filial BF-DM (000036)
+I, [2025-01-11T12:20:51.400231 #17288]  INFO -- : Tamanho do banco de dados: 10.41 GB da filial BF-ES (000096)
+I, [2025-01-11T12:20:51.994338 #17288]  INFO -- : Tamanho do banco de dados: 8.81 GB da filial BF-ESTACAO CUIABA (000231)
+I, [2025-01-11T12:20:57.671347 #17288]  INFO -- : Tamanho do banco de dados: 8.59 GB da filial BF-GO (000042)
+I, [2025-01-11T12:22:19.993414 #11124]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:22:19.994672 #11124]  INFO -- : Conexão efetuada com sucesso
+I, [2025-01-11T12:32:23.627531 #4656]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:32:23.632234 #4656]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:32:31.320839 #4656]  INFO -- : Tamanho do banco de dados: 10.54 GB da filial BF-BB (000094)
+I, [2025-01-11T12:33:27.528638 #7700]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:33:27.530920 #7700]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:34:33.208913 #7460]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:35:28.094989 #10396]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:35:28.097161 #10396]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:37:55.961669 #13868]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:37:55.963681 #13868]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:39:50.915552 #9196]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:39:50.917993 #9196]  INFO -- : Logger iniciado com sucesso
+W, [2025-01-11T12:39:50.918226 #9196]  WARN -- : no dia de hoje (Sabado ou Domingo) o programa não roda
+W, [2025-01-11T12:39:50.918395 #9196]  WARN -- : no dia de hoje (Sabado ou Domingo) o programa não roda
+I, [2025-01-11T12:41:20.248101 #11144]  INFO -- : Logger iniciado com sucesso
+I, [2025-01-11T12:41:20.250535 #11144]  INFO -- : Logger iniciado com sucesso
+W, [2025-01-11T12:41:20.250756 #11144]  WARN -- : no dia de hoje (Sabado ou Domingo) o programa não roda
+I, [2025-01-11T18:30:04.654379 #13164]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T18:30:08.025059 #13164]  INFO -- : Logger inializado com sucesso no arquivo services.rb
+W, [2025-01-11T18:30:08.025309 #13164]  WARN -- : no dia de hoje (Sabado ou Domingo) o programa não roda
+I, [2025-01-11T19:43:08.048468 #14944]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T19:43:50.061550 #3848]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T19:44:35.635207 #7136]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T19:44:38.086291 #7136]  INFO -- : Logger inializado com sucesso no arquivo services.rb
+W, [2025-01-11T19:44:38.086640 #7136]  WARN -- : no dia de hoje (Sabado ou Domingo) o programa não roda
+I, [2025-01-11T19:44:56.560463 #11552]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T19:44:58.735900 #11552]  INFO -- : Logger inializado com sucesso no arquivo services.rb
+W, [2025-01-11T19:44:58.736238 #11552]  WARN -- : no dia de hoje (Sabado ou Domingo) o programa não roda
+I, [2025-01-11T19:46:25.647823 #15828]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T19:46:27.941469 #15828]  INFO -- : Logger inializado com sucesso no arquivo services.rb
+I, [2025-01-11T19:47:15.629707 #11948]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T19:47:17.744078 #11948]  INFO -- : Logger inializado com sucesso no arquivo services.rb
+I, [2025-01-11T19:47:17.949436 #11948]  INFO -- : Conexão estabelecida com sucesso
+I, [2025-01-11T19:49:08.969235 #4380]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T19:49:10.960781 #4380]  INFO -- : Logger inializado com sucesso no arquivo services.rb
+I, [2025-01-11T19:49:11.116682 #4380]  INFO -- : Conexão estabelecida com sucesso
+I, [2025-01-11T19:49:40.914833 #7964]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T19:49:43.083313 #7964]  INFO -- : Logger inializado com sucesso no arquivo services.rb
+I, [2025-01-11T19:49:43.294426 #7964]  INFO -- : Conexão estabelecida com sucesso
+I, [2025-01-11T19:49:44.803397 #7964]  INFO -- : Tamanho do banco de dados: 9.68 GB da filial VV-ELD (000005)
+I, [2025-01-11T19:49:45.823301 #7964]  INFO -- : Tamanho do banco de dados: 11.34 GB da filial BF-MOR (000007)
+I, [2025-01-11T19:49:46.558194 #7964]  INFO -- : Tamanho do banco de dados: 8.73 GB da filial BF-OF (000008)
+I, [2025-01-11T19:49:48.225570 #7964]  INFO -- : Tamanho do banco de dados: 9.54 GB da filial BF-SCN (000010)
+I, [2025-01-11T19:49:49.078669 #7964]  INFO -- : Tamanho do banco de dados: 9.5 GB da filial VV-SCN (000012)
+I, [2025-01-11T19:49:53.658941 #7964]  INFO -- : Tamanho do banco de dados: 9.51 GB da filial VV-BR (000014)
+I, [2025-01-11T19:49:54.794117 #7964]  INFO -- : Tamanho do banco de dados: 11.0 GB da filial BF-IGU (000016)
+I, [2025-01-11T19:49:59.495857 #7964]  INFO -- : Tamanho do banco de dados: 9.02 GB da filial BF-POA (000025)
+I, [2025-01-11T19:50:02.692495 #7964]  INFO -- : Tamanho do banco de dados: 9.96 GB da filial BF-DM (000036)
+I, [2025-01-11T19:50:04.435363 #7964]  INFO -- : Tamanho do banco de dados: 9.2 GB da filial VV-IGU (000037)
+I, [2025-01-11T19:50:13.009858 #7964]  INFO -- : Tamanho do banco de dados: 8.59 GB da filial BF-GO (000042)
+I, [2025-01-11T19:50:16.036641 #7964]  INFO -- : Tamanho do banco de dados: 8.63 GB da filial BF-HI (000048)
+I, [2025-01-11T19:50:17.328732 #7964]  INFO -- : Tamanho do banco de dados: 10.4 GB da filial BF-BR2 (000051)
+I, [2025-01-11T19:50:18.398884 #7964]  INFO -- : Tamanho do banco de dados: 8.72 GB da filial BF-SBC (000054)
+I, [2025-01-11T19:50:19.940040 #7964]  INFO -- : Tamanho do banco de dados: 9.97 GB da filial VV-RS (000056)
+I, [2025-01-11T19:50:20.527917 #7964]  INFO -- : Tamanho do banco de dados: 10.12 GB da filial BF-UBE (000057)
+I, [2025-01-11T19:51:01.839117 #15820]  INFO -- : Logger inializado com sucesso no modulo util.rb
+I, [2025-01-11T19:51:05.343772 #15820]  INFO -- : Logger inializado com sucesso no arquivo services.rb
+W, [2025-01-11T19:51:05.344101 #15820]  WARN -- : no dia de hoje (Sabado ou Domingo) o programa não roda
